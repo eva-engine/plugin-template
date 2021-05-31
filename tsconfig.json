@@ -22,13 +22,10 @@
     "lib": [
       "esnext",
       "dom"
-    ],
-    "types": [],
-    "paths": {}
+    ]
   },
   "include": [
     "src/",
-    "example/"
   ],
   "exclude": [
     "node_modules"
